@@ -2,7 +2,7 @@
 
 Ce projet est un tableau de bord basé sur React avec un design moderne et réactif. Il comprend plusieurs pages et composants, tels que Home, Profile, FAQ, Chat, Pricing, Inbox, Invoice et Wizard.
 
-![Dashboard Screenshot](./path-to-your-image/readmeDashbord.PNG)
+![Dashboard Screenshot](https://raw.githubusercontent.com/lantomalala/Dashbord/master/captureDashbord.png)
 
 ## Table des matières
 
