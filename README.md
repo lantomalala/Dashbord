@@ -30,11 +30,11 @@ Pour commencer avec ce projet, suivez ces étapes :
 
 1. Clonez le dépôt :
     ```sh
-    git clone https://github.com/votre-nom-utilisateur/react-dashboard.git
+    git clone git@github.com:lantomalala/Dashbord.git
     ```
 2. Accédez au répertoire du projet :
     ```sh
-    cd react-dashboard
+    cd Dashbord
     ```
 3. Installez les dépendances :
     ```sh
