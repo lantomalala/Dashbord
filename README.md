@@ -45,4 +45,49 @@ Pour commencer avec ce projet, suivez ces étapes :
 
 Pour démarrer le serveur de développement, exécutez :
 ```sh
-npm start
+    npm start
+ ```   
+## Structure du dossier
+
+Le projet a la structure de dossiers suivante :
+```sh
+    dashboard/
+        ├── public/
+        │   ├── index.html
+        │   └── ...
+        ├── src/
+        │   ├── components/
+        │   │   ├── Chat/
+        │   │   ├── FAQ/
+        │   │   ├── Home/
+        │   │   ├── Inbox/
+        │   │   ├── Invoice/
+        │   │   ├── Pricing/
+        │   │   ├── Profile/
+        │   │   ├── Wizard/
+        │   │   └── ...
+        │   ├── App.js
+        │   ├── index.js
+        │   └── ...
+        ├── .gitignore
+        ├── package.json
+        ├── README.md
+        └── ...
+ ```
+## Contribuer
+
+1. Forkez le dépôt.
+
+2. Créez une nouvelle branche :
+```sh
+    git checkout -b feature/nom-de-votre-fonctionnalité
+ ```
+3. Apportez vos modifications.
+4. Commitez vos modifications :
+```sh
+    git commit -m 'Ajout d'une fonctionnalité'
+ ```
+5. Poussez vers la branche :
+```sh
+    git push origin feature/nom-de-votre-fonctionnalité
+ ```
